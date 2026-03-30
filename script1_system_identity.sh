@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script 1: System Identity Report
-# Author: Ajinkya Wasnik
+# Author: Manoj Kumar G
 # Course: Open Source Software
 
 # Variables
